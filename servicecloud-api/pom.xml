@@ -18,6 +18,13 @@
             <artifactId>lombok</artifactId>
         </dependency>
 
+        <!-- Feign相关的开始-->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-feign</artifactId>
+        </dependency>
+        <!-- Feign相关的结束-->
+
 
 
     </dependencies>

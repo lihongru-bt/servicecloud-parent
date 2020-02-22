@@ -15,6 +15,14 @@
         <module>servicecloud-provider-dept-8001</module>
         <module>servicecloud-consumer-dept-80</module>
         <module>servicecloud-eureka-7001</module>
+        <module>servicecloud-eureka-7002</module>
+        <module>servicecloud-eureka-7003</module>
+        <module>servicecloud-provider-dept-8002</module>
+        <module>servicecloud-provider-dept-8003</module>
+        <module>servicecloud-consumer-dept-feign</module>
+        <module>servicecloud-provider-dept-hystrix-8001</module>
+        <module>servicecloud-consumer-hystrix-dashboard</module>
+        <module>servicecloud-zuul-gateway-9527</module>
     </modules>
 
 
